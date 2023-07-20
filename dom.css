@@ -1,0 +1,40 @@
+#box{
+	border:solid 1px black;
+	background:gray;
+	width:300px;
+	height:300px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+#red{
+	margin-left:42%;
+	float:left;
+	margin-top:20px;
+
+}
+#blue{
+	margin-left:21px;
+	float:left;
+	margin-top:20px;
+
+}
+#green{
+	margin-left:21px;
+	float:left;
+	margin-top:20px;
+
+}
+#yellow{
+	margin-left:21px;
+	float:left;
+	margin-top:20px;
+
+}
+
+.div1{
+	margin:top;
+	
+	
+}
